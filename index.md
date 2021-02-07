@@ -8,4 +8,4 @@ In machine learning the data are considered to have bundles of features, and mat
 
 Consider a vector ```x``` we refer to its length as **norm** and is computer as below:
 
-$$ ||x|| = \sqrt[root]{x_1^2 +x_2^2+...+x_n^2}$$
+![formula](https://render.githubusercontent.com/render/math?math=||x||= \sqrt[root]{x_1^2+x_2^2+...+x_n^2})
